@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  background-image: url('./img/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-attachment: fixed;
+}
+
+.box {
+  padding: 10px;
+  margin: 10px;
+  background-color: rgba(0, 0, 0, 0.59);
+  display: inline-block;
+  color: white;
+}
+
+.content {
+  width: 250px;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 5px 6px #38cc00;
+}

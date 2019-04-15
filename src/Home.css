@@ -1,0 +1,11 @@
+.home {
+    background-color: rgba(196, 0, 99, 0.67);
+    width: 500px;
+    position: absolute;
+    top: 80px;
+    right: 150px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+}
+

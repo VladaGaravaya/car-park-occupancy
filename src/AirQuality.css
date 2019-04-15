@@ -1,0 +1,12 @@
+#airQuality {
+    background-color: rgba(0, 255, 227, 0.33);
+    padding: 10px;
+    margin: 5px;
+    width: 300px;
+    display: inline-block;
+    position: center;
+}
+
+h3 {
+    text-shadow: 3px 5px 6px #38cc00;
+}
